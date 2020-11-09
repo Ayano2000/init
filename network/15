@@ -1,0 +1,10 @@
+To do this you need to add a new entry to the `/etc/hosts`.
+To do this, we need to define the IP and the domain in the entry.
+The first column contains the IP address and the second column contains the url.
+
+run 'sudo vim /etc/hosts'
+
+add the information below to the columns and save
+46.19.122.85	 intra.42.fr
+
+test with 'traceroute intra.42.fr'

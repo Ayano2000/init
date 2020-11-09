@@ -1,0 +1,7 @@
+two files need to be edited to make it permanent
+the '/etc/hostname' file:
+	'sudo nano /etc/hostname' and update hostname
+
+and the '/etc/hosts' file:
+	'sudo nano /etc/hosts' and update the lines that reads your old-host-name.
+

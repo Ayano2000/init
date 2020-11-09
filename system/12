@@ -1,0 +1,4 @@
+sudo du -h --max-depth=1 /var
+
+# -h humanly readable
+# max depth 1 for folders only, is different to -s

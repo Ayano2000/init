@@ -1,0 +1,1 @@
+the home folder has a hidden folder that contains the file. 'cat ~/.ssh/authorized_keys'

@@ -1,1 +1,2 @@
-cat /etc/resolv.conf 
+Linux, FreeBSD and all UNIX-like operating systems have a file called `/etc/resolv.conf `
+The IP address of the DNS server you’re using is found in that file

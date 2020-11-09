@@ -1,0 +1,2 @@
+you can find the installed version of debian in the file debian_version in the etc folder
+ie: 'cat /etc/debian_version'
