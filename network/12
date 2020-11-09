@@ -1,1 +1,1 @@
-10.215.1.25
+ip r | grep src | awk '{print $9}'
