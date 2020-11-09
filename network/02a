@@ -1,1 +1,1 @@
-ip addr show ens192 | grep "inet\b" | awk '{print $2}' | cut -d/ -f1
+ip addr show ens192  | grep "inet\b" | awk '{print $4}' | cut -d/ -f1
