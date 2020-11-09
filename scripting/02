@@ -1,2 +1,2 @@
 #!/bin/sh
-sudo deluser <username>
+sudo deluser arata
